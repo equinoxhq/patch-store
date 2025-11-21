@@ -1,0 +1,14 @@
+[package]
+name = "thing"
+version = "0.1.0"
+license = "GPL3"
+kind = "Binary"
+backend = "C"
+binaries = ["validator"]
+
+[toolchain]
+version = "2.2.4"
+
+[dependencies]
+jsony = ">= 1.1.5"
+url = ">= 0.0.0"
