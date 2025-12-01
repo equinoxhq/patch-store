@@ -1,3 +1,6 @@
 [
-	"http://github.com/xTrayambak/thing.json"
+	{
+		"title": "Test Patch",
+		"url": "https://github.com/xTrayambak/patches/thing.json"
+	}
 ]
